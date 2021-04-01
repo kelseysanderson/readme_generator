@@ -51,11 +51,6 @@ const questions = [
       message: 'Please enter your email: ',
       name: 'email',
     },
-    {
-      type: 'input',
-      message: 'Please enter instructions on how to reach you for further questions: ',
-      name: 'questions',
-    },
   ]
 
 function writeMarkdown (fileName, data) {

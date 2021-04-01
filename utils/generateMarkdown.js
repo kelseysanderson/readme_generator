@@ -43,7 +43,7 @@ function generateMarkdown(data, license) {
    ${data.contributions}
 
    ## License
-   Read more about the license below:
+   Read more about the license here:
    ${license[1]}
 
    ## Test

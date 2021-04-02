@@ -20,10 +20,10 @@
   In a new directory, clone repository using https://github.com/kelseysanderson/readme_generator.git. Then in the terminal in that directory, install npm by typing `npm install`.  
 
   ## Usage
-  Enter `node index.js` into the terminal and follow prompts to create a README.md file. 
+  Following installation, enter `node index.js` into the terminal and follow prompts to create a README.md file. 
 
   ### Walkthrough of Usage
-  [View Walkthrough](https://drive.google.com/file/d/1sSn-rQMmpoO9D5-JwXCiJQHWfRLctpuY/view)
+  [View Walkthrough](https://drive.google.com/file/d/1dAOgg6yUNY93ml_zYpIDloR-N9CSnWpL/view)
 
   ## Contributions
   If you would like to contribute to this project, please contact the author at the links provided in the questions section.

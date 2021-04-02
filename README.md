@@ -23,7 +23,7 @@
   Following installation, enter `node index.js` into the terminal and follow prompts to create a README.md file. 
 
   ### Walkthrough of Usage
-  [View Walkthrough](https://drive.google.com/file/d/1qUhuSn-7GAW1Eeh7RGrMbg5scn0fiqpY/view)
+  [View Walkthrough](https://drive.google.com/file/d/1dAOgg6yUNY93ml_zYpIDloR-N9CSnWpL/view)
 
   ## Contributions
   If you would like to contribute to this project, please contact the author at the links provided in the questions section.

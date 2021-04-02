@@ -16,44 +16,46 @@ function generateMarkdown(data, license) {
   license = '';
 
   return`
-   # ${data.title}
+  # ${data.title}
 
-   ${license[0]}
+  ${license[0]}
 
-   ## Table of Contents
-   * [Description](README.md#Description)
-   * [Installation](README.md#Installation)
-   * [Usage](README.md#Usage)
-   * [Contributions](README.md#Contributions)
-   * [License](README.md#License)
-   * [Test](README.md#Test)
-   * [Questions](README.md#Questions)
-   
-   ## Description
-   ${data.description}
-   
+  ## Table of Contents
+  * [Description](README.md#Description)
+  * [Installation](README.md#Installation)
+  * [Usage](README.md#Usage)
+  * [Contributions](README.md#Contributions)
+  * [License](README.md#License)
+  * [Test](README.md#Test)
+  * [Questions](README.md#Questions)
 
-   ## Installation
-   ${data.installation}
+  ## Description
+  ${data.description}
 
-   ## Usage
-   ${data.usage}
 
-   ## Contributions
-   ${data.contributions}
+  ## Installation
+  ${data.installation}
 
-   ## License
-   Read more about the license here:
-   ${license[1]}
+  ## Usage
+  ${data.usage}
 
-   ## Test
-    ${data.test}
-    
-   ### Questions
-    If you have any questions, feel free to contact me:
-    * GitHub: github.com/${data.github}
-    * Email: ${data.email}
-    `
+  ## Contributions
+  ${data.contributions}
+
+  ## License
+  Read more about the license here:
+  ${license[1]}
+
+  ## Test
+  ${data.tests}
+
+  ### Questions
+  If you have any questions, feel free to contact me:
+  
+  GitHub: [Kelsey Sanderson GitHub](https://github.com/${data.github})
+  
+  Email:  [Kelsey Sanderson Email](mailto:${data.email})
+  `
 }
 
 module.exports =  generateMarkdown

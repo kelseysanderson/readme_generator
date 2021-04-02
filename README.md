@@ -22,6 +22,9 @@
   ## Usage
   Enter `node index.js` into the terminal and follow prompts to create a README.md file. 
 
+  ### Walkthrough of Usage
+  [View Walkthrough](https://drive.google.com/file/d/1sSn-rQMmpoO9D5-JwXCiJQHWfRLctpuY/view)
+
   ## Contributions
   If you would like to contribute to this project, please contact the author at the links provided in the questions section.
 
